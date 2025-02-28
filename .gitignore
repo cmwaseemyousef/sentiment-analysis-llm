@@ -1,0 +1,14 @@
+
+# Ignore virtual environment
+sentiment-env/
+
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore system files
+*.log
+*.DS_Store
+
+# Ignore large files
+*.dll
+*.lib
